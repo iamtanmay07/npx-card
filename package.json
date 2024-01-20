@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "I'm actively exploring new opportunities and am open to meaningful connections. Whether you have a question, a job lead, or just want to say hi, my inbox is always open.",
   "main": "index.js",
-  
+  "bin": {
+    "tanmay": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
